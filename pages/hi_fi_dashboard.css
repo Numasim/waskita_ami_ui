@@ -1,0 +1,1265 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hi-fi-dashboard .image-1 {
+  background: url("../assets/images/image_1.png") 50% / cover no-repeat;
+  width: 100px;
+  height: 99px;
+}
+.hi-fi-dashboard .waskita {
+  margin: 25.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 40px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .frame-89 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .nanda-setya-pradana {
+  margin: 0 0.4px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 400;
+  font-size: 40px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .mahasiswa {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 400;
+  font-size: 20px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .frame-90 {
+  margin-right: 16.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .ellipse {
+  border-radius: 40px;
+  background: url("../assets/images/ellipse.png") 50% / cover no-repeat;
+  margin: 3px 0;
+  width: 80px;
+  height: 80px;
+  margin-right: 100px;
+}
+.hi-fi-dashboard .profil {
+  margin: 6.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .header {
+  background: #6c63ff;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17.5px 0 17.5px 137.5px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .vector {
+  width: 19.5px;
+  height: 19.5px;
+}
+.hi-fi-dashboard .magedashboard-fill {
+  margin: 8.8px 18px 8.7px 0;
+  display: flex;
+  width: 23.5px;
+  height: 23.5px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .dashboard {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 400;
+  font-size: 32px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .button-dashboard {
+  border-radius: 8px;
+  background: #6c63ff;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .vector-1 {
+  width: 18px;
+  height: 20px;
+}
+.hi-fi-dashboard .icround-assignment {
+  margin: 8.5px 19px 8.5px 0;
+  display: flex;
+  width: 24px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .tugas {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.hi-fi-dashboard .button-tugas {
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .solarcalendar-bold {
+  margin: 6.9px 16px 6.9px 0;
+  width: 24px;
+  height: 23.3px;
+}
+.hi-fi-dashboard .kalender {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.hi-fi-dashboard .button-kalender {
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .vector-4 {
+  width: 20px;
+  height: 20px;
+}
+.hi-fi-dashboard .bxscontact {
+  margin: 8.5px 18px 8.5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .kontak {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.hi-fi-dashboard .button-kontak {
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .menu {
+  margin: 0 48px 40px 48px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 24px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .semester-4 {
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 40px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .frame-66 {
+  background: #6c63ff;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0.2px 20px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .image-9 {
+  background: url("../assets/images/image_9.png") 50% / cover no-repeat;
+  margin-bottom: 14px;
+  width: 330px;
+  height: 187px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-user-interface-user-experience-22-d-3-ti-praktikum {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-78 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .which-types-of-digital-marketing-tools {
+  background: url("../assets/images/which_types_of_digital_marketing_tools.jpeg")
+    50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-1 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-118-pemasaran-digital-22-d-3-ti-praktikum {
+  margin: 0 24.4px 0 8px;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-79 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .image-3 {
+  background: url("../assets/images/image_3.png") 50% / cover no-repeat;
+  margin-bottom: 9px;
+  width: 330px;
+  height: 192px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-2 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-bisnis-digital-22-d-3-ti-praktikum {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-80 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-50 {
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 96px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .image-4 {
+  background: url("../assets/images/program.jpeg") 50% / cover no-repeat;
+  position: absolute;
+  top: 0px;
+  right: -4px;
+  width: 334px;
+  height: 191px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-3 {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-118-pemasaran-digital-22-d-3-ti-praktikum-1 {
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-791 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  position: relative;
+  display: flex;
+  padding: 201px 24.4px 36px 8px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .image-5 {
+  background: url("../assets/images/image_5.png") 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-4 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-user-interface-user-experience-22-d-3-ti-praktikum-1 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-781 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .image-6 {
+  background: url("../assets/images/image_6.png") 50% / cover no-repeat;
+  margin-bottom: 13px;
+  width: 330px;
+  height: 188px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-5 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-bisnis-digital-22-d-3-ti-praktikum-1 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-801 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-57 {
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 96px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .image-7 {
+  background: url("../assets/images/image_7.png") 50% / cover no-repeat;
+  margin-bottom: 11px;
+  width: 330px;
+  height: 190px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-6 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-user-interface-user-experience-22-d-3-ti-praktikum-2 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-782 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .image-8 {
+  background: url("../assets/images/image_8.png") 50% / cover no-repeat;
+  margin-bottom: 15px;
+  width: 330px;
+  height: 186px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-7 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-bisnis-digital-22-d-3-ti-praktikum-2 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-802 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .image-91 {
+  background: url("../assets/images/image_9.png") 50% / cover no-repeat;
+  margin-bottom: 14px;
+  width: 330px;
+  height: 187px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-8 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-user-interface-user-experience-22-d-3-ti-praktikum-3 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-81 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-58 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 96px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-67 {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 129px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-52 {
+  background: #ffffff;
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .semester-3 {
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 40px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .frame-54 {
+  background: #6c63ff;
+  margin-bottom: 40px;
+  display: flex;
+  padding: 20px 0.6px 20px 0;
+  width: 1440px;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.hi-fi-dashboard .paradigm-20 {
+  background: url("../assets/images/paradigm_20.jpeg") 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-9 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-user-interface-user-experience-22-d-3-ti-praktikum-4 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-783 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .which-types-of-digital-marketing-tools-1 {
+  background: url("../assets/images/which_types_of_digital_marketing_tools.jpeg")
+    50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-10 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-118-pemasaran-digital-22-d-3-ti-praktikum-2 {
+  margin: 0 24.4px 0 8px;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-792 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .paradigm-201 {
+  background: url("../assets/images/paradigm_20.jpeg") 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-11 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-bisnis-digital-22-d-3-ti-praktikum-3 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-803 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-501 {
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 96px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .which-types-of-digital-marketing-tools-2 {
+  background: url("../assets/images/which_types_of_digital_marketing_tools.jpeg")
+    50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-12 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-118-pemasaran-digital-22-d-3-ti-praktikum-3 {
+  margin: 0 24.4px 0 8px;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-793 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .paradigm-202 {
+  background: url("../assets/images/paradigm_20.jpeg") 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-13 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-user-interface-user-experience-22-d-3-ti-praktikum-5 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-784 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .paradigm-203 {
+  background: url("../assets/images/paradigm_20.jpeg") 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-14 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-bisnis-digital-22-d-3-ti-praktikum-4 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-804 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-571 {
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 96px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .paradigm-204 {
+  background: url("../assets/images/paradigm_20.jpeg") 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-15 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-user-interface-user-experience-22-d-3-ti-praktikum-6 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-785 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 21px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .paradigm-205 {
+  background: url("../assets/images/paradigm_20.jpeg") 50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-16 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-108-bisnis-digital-22-d-3-ti-praktikum-5 {
+  margin: 0 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-805 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .which-types-of-digital-marketing-tools-3 {
+  background: url("../assets/images/which_types_of_digital_marketing_tools.jpeg")
+    50% / cover no-repeat;
+  margin-bottom: 8px;
+  width: 330px;
+  height: 193px;
+  border-radius: 8px 8px 0 0;
+}
+.hi-fi-dashboard .genap-17 {
+  margin: 0 8px 6px 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .dt-118-pemasaran-digital-22-d-3-ti-praktikum-4 {
+  margin: 0 24.4px 0 8px;
+  overflow-wrap: break-word;
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-794 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-581 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 96px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-671 {
+  margin: 0 129px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-282 {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-283 {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .vector-5 {
+  width: 15px;
+  height: 20px;
+}
+.hi-fi-dashboard .frame-92 {
+  border-radius: 8px 0 0 8px;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  padding: 30px 0;
+  width: 87px;
+  height: 80px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .halaman-12 {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.hi-fi-dashboard .frame-901 {
+  background: #ffffff;
+  margin: 21.5px 0;
+  display: flex;
+  padding-right: 0px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .vector-6 {
+  width: 15px;
+  height: 20px;
+}
+.hi-fi-dashboard .frame-91 {
+  border-radius: 0 8px 8px 0;
+  background: #ffffff;
+  display: flex;
+  padding: 30px 0;
+  width: 87px;
+  height: 80px;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.hi-fi-dashboard .halaman {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .frame-2831 {
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+}
+.hi-fi-dashboard .content {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .contact {
+  margin-bottom: 46.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 800;
+  font-size: 40px;
+  color: #333333;
+}
+.hi-fi-dashboard .vector-7 {
+  width: 20px;
+  height: 16px;
+}
+.hi-fi-dashboard .frame-95 {
+  margin: 3.5px 20px 3.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .supportamikom-ac-id {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .support {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .vector-8 {
+  width: 20px;
+  height: 20px;
+}
+.hi-fi-dashboard .frame-96 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .container {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .support-1 {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .vector-9 {
+  width: 20px;
+  height: 20px;
+}
+.hi-fi-dashboard .frame-97 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .httpswww-facebook-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .support-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .left {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .vector-10 {
+  width: 21px;
+  height: 17px;
+}
+.hi-fi-dashboard .frame-98 {
+  margin: 3px 19.5px 3px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .httpstwitter-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .support-3 {
+  margin: 0 1.5px 49px 1.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .vector-11 {
+  width: 20px;
+  height: 20px;
+}
+.hi-fi-dashboard .frame-99 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .httpsinstagram-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .support-4 {
+  margin: 0 2px 48.5px 2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .vector-12 {
+  width: 24px;
+  height: 24px;
+}
+.hi-fi-dashboard .frame-100 {
+  margin-right: 18px;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard
+  .httpswww-youtube-comchannel-ucnmw-ez-8-y-3-jiod-d-22-o-8-yx-zq {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: "Karla";
+  font-weight: 500;
+  font-size: 20px;
+  color: #ffffff;
+}
+.hi-fi-dashboard .support-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .right {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .list {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1264px;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard .footer {
+  background: #6c63ff;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 33.9px 38px 88px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.hi-fi-dashboard {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #e2e0ff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+/* navbar  */
+
+.containerx {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 30px; */
+
+  /* border: 1px solid #7f72f2; */
+
+  /* border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s; */
+
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6c63ff;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 15px;
+  width: 250px;
+  box-sizing: border-box;
+  margin-bottom: 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .button.active {
+  background-color: #7f72f2;
+  color: #fff;
+} */
+
+.button:hover {
+  background-color: #7f72f2;
+  color: #fff;
+}
+
+.button .icon {
+  margin-right: 10px;
+}
+.font-nav {
+  font-size: 24px;
+  color: #000000;
+}
+.icon:hover {
+  color: #ffffff;
+}
+.container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}

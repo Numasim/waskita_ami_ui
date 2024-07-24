@@ -1,0 +1,1726 @@
+.kalender-index .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 16px;
+  width: 100px;
+  height: 99px;
+}
+
+.kalender-index .waskita {
+  margin: 25.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+
+.kalender-index .frame-89 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.kalender-index .nanda-setya-pradana {
+  margin: 0 0.4px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+
+.kalender-index .mahasiswa {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.kalender-index .frame-90 {
+  margin-right: 16.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+
+.kalender-index .ellipse {
+  border-radius: 40px;
+  background: url('../assets/images/ellipse.png') 50% / cover no-repeat;
+  margin: 3px 0;
+  width: 80px;
+  height: 80px;
+}
+
+.kalender-index .profil {
+  margin: 6.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.kalender-index .header {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #6C63FF;
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 24px 24px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-3 {
+  width: 19.5px;
+  height: 19.5px;
+}
+
+.kalender-index .magedashboard-fill {
+  margin: 8.8px 18px 8.7px 0;
+  display: flex;
+  width: 23.5px;
+  height: 23.5px;
+  box-sizing: border-box;
+}
+
+.kalender-index .dashboard {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.kalender-index .button-dashboard {
+  border-radius: 8px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-4 {
+  width: 18px;
+  height: 20px;
+}
+
+.kalender-index .icround-assignment {
+  margin: 8.5px 19px 8.5px 0;
+  display: flex;
+  width: 24px;
+  height: 22px;
+  box-sizing: border-box;
+}
+
+.kalender-index .tugas-1 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.kalender-index .button-tugas {
+  border-radius: 8px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+}
+
+.kalender-index .solarcalendar-bold {
+  margin: 6.9px 16px 6.9px 0;
+  width: 24px;
+  height: 23.3px;
+}
+
+.kalender-index .kalender-1 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+
+.kalender-index .button-kalender {
+  border-radius: 8px;
+  background: #6C63FF;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-7 {
+  width: 20px;
+  height: 20px;
+}
+
+.kalender-index .bxscontact {
+  margin: 8.5px 18px 8.5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.kalender-index .kontak {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.kalender-index .button-kontak {
+  border-radius: 8px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+}
+
+.kalender-index .menu {
+  margin: 0 48px 40px 48px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 24px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.kalender-index .event-list {
+  margin: 0 0.2px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.kalender-index .tipe {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+
+.kalender-index .frame-223 {
+  border: 1px solid #000000;
+  display: flex;
+  padding: 3px 0;
+  width: 120px;
+  box-sizing: border-box;
+}
+
+.kalender-index .tugas {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.kalender-index .frame-224 {
+  border: 1px solid #000000;
+  display: flex;
+  padding: 3px 0;
+  width: 120px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-219 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 120px;
+  box-sizing: border-box;
+}
+
+.kalender-index .tanggal {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+
+.kalender-index .frame-225 {
+  border: 1px solid #000000;
+  display: flex;
+  padding: 3px 0;
+  width: 160px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.kalender-index .frame-226 {
+  border: 1px solid #000000;
+  display: flex;
+  padding: 3px 16.3px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-220 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.kalender-index .deskripsi {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+
+.kalender-index .frame-227 {
+  border: 1px solid #000000;
+  display: flex;
+  padding: 3px 0;
+  width: 500px;
+  box-sizing: border-box;
+}
+
+.kalender-index .ui-ux-pertemuan-9 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.kalender-index .frame-228 {
+  border: 1px solid #000000;
+  display: flex;
+  padding: 3px 0;
+  width: 500px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-221 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  box-sizing: border-box;
+}
+
+.kalender-index .action {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+
+.kalender-index .frame-2271 {
+  border: 1px solid #000000;
+  display: flex;
+  padding: 3px 0;
+  width: 210px;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector {
+  width: 20px;
+  height: 20px;
+}
+
+.kalender-index .magepen-fill {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-1 {
+  width: 14px;
+  height: 19px;
+}
+
+.kalender-index .gridiconstrash {
+  margin: 0.5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-2281 {
+  border: 1px solid #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 7px 0;
+  width: 210px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-2221 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 210px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-222 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-2 {
+  width: 40px;
+  height: 40px;
+}
+
+.kalender-index .phplus-fill {
+  margin-right: 16.1px;
+  display: flex;
+  width: 56px;
+  height: 56px;
+  box-sizing: border-box;
+}
+
+.kalender-index .add-event {
+  margin: 1.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.kalender-index .frame-243 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 16.1px 8px 24px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .content-1 {
+  margin-bottom: 64px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-8 {
+  width: 15px;
+  height: 20px;
+}
+
+.kalender-index .frame-92 {
+  border-radius: 8px 0 0 8px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 24px 0;
+  width: 71px;
+  height: 68px;
+  box-sizing: border-box;
+}
+
+.kalender-index .januari-2024 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 40px;
+  color: #000000;
+}
+
+.kalender-index .frame-901 {
+  background: #FFFFFF;
+  margin: 10.5px 0;
+  display: flex;
+  padding-right: 0.1px;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-9 {
+  width: 15px;
+  height: 20px;
+}
+
+.kalender-index .frame-91 {
+  border-radius: 0 8px 8px 0;
+  background: #FFFFFF;
+  display: flex;
+  padding: 24px 0;
+  width: 71px;
+  height: 68px;
+  box-sizing: border-box;
+}
+
+.kalender-index .kalender {
+  border-radius: 8px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-232 {
+  margin-bottom: 8px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.kalender-index .minggu {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+
+.kalender-index .frame-181 {
+  background: #6C63FF;
+  display: flex;
+  padding: 2.5px 0.9px 2.5px 0;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-182 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: fit-content;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-183 {
+  display: flex;
+  flex-direction: column;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .senin {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+
+.kalender-index .frame-1811 {
+  background: #6C63FF;
+  display: flex;
+  padding: 2.5px 0.5px 2.5px 0;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-1821 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: fit-content;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-184 {
+  display: flex;
+  flex-direction: column;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .selasa {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+
+.kalender-index .frame-1812 {
+  background: #6C63FF;
+  display: flex;
+  padding: 2.5px 0.7px 2.5px 0;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-1822 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: fit-content;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-185 {
+  display: flex;
+  flex-direction: column;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .rabu {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+
+.kalender-index .frame-1813 {
+  background: #6C63FF;
+  display: flex;
+  padding: 2.5px 0.1px 2.5px 0;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-1823 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: fit-content;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-186 {
+  display: flex;
+  flex-direction: column;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .kamis {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+
+.kalender-index .frame-1814 {
+  background: #6C63FF;
+  display: flex;
+  padding: 2.5px 0.9px 2.5px 0;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-5 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-1824 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: fit-content;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-187 {
+  display: flex;
+  flex-direction: column;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .jumat {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+
+.kalender-index .frame-1815 {
+  background: #6C63FF;
+  display: flex;
+  padding: 2.5px 0.4px 2.5px 0;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-6 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-1825 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: fit-content;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-188 {
+  display: flex;
+  flex-direction: column;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .sabtu {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+
+.kalender-index .frame-1816 {
+  background: #6C63FF;
+  display: flex;
+  padding: 2.5px 0.8px 2.5px 0;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-7 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-1826 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: fit-content;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-190 {
+  display: flex;
+  flex-direction: column;
+  width: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-234 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-8 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-189 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-9 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-191 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-10 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-192 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-11 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-193 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-12 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-194 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-13 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-195 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-14 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-196 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-235 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-15 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-203 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-16 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-202 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-17 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-201 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-18 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-200 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-19 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-199 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-20 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-198 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-21 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-197 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-236 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-22 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-204 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-23 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-205 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-24 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-206 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-25 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-207 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-26 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-208 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-27 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-209 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-28 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-210 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-237 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-29 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-211 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-30 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-212 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-31 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-213 {
+  border: 1px solid #A0A0A0;
+  background: #FFFFFF;
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-32 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-214 {
+  border: 1px solid #A0A0A0;
+  background: rgba(165, 165, 165, 0.45);
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-33 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-215 {
+  border: 1px solid #A0A0A0;
+  background: rgba(165, 165, 165, 0.45);
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-34 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-216 {
+  border: 1px solid #A0A0A0;
+  background: rgba(165, 165, 165, 0.45);
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-35 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #F30C0C;
+}
+
+.kalender-index .frame-217 {
+  border: 1px solid #A0A0A0;
+  background: rgba(165, 165, 165, 0.45);
+  padding: 19px 19px 0 19px;
+  width: 140px;
+  height: 140px;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-238 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .frame-218 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .content-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .card {
+  background: #E2E0FF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px 0 56px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.kalender-index .content {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.kalender-index .contact {
+  margin-bottom: 46.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 800;
+  font-size: 40px;
+  color: #333333;
+}
+
+.kalender-index .vector-10 {
+  width: 20px;
+  height: 16px;
+}
+
+.kalender-index .frame-95 {
+  margin: 3.5px 20px 3.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.kalender-index .supportamikom-ac-id {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.kalender-index .support {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-11 {
+  width: 20px;
+  height: 20px;
+}
+
+.kalender-index .frame-96 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.kalender-index .container-36 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.kalender-index .support-1 {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-12 {
+  width: 20px;
+  height: 20px;
+}
+
+.kalender-index .frame-97 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.kalender-index .httpswww-facebook-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.kalender-index .support-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .left {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-13 {
+  width: 21px;
+  height: 17px;
+}
+
+.kalender-index .frame-98 {
+  margin: 3px 19.5px 3px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.kalender-index .httpstwitter-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.kalender-index .support-3 {
+  margin: 0 1.5px 49px 1.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-14 {
+  width: 20px;
+  height: 20px;
+}
+
+.kalender-index .frame-99 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.kalender-index .httpsinstagram-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.kalender-index .support-4 {
+  margin: 0 2px 48.5px 2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .vector-15 {
+  width: 24px;
+  height: 24px;
+}
+
+.kalender-index .frame-100 {
+  margin-right: 18px;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.kalender-index .httpswww-youtube-comchannel-ucnmw-ez-8-y-3-jiod-d-22-o-8-yx-zq {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.kalender-index .support-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.kalender-index .right {
+  margin-right: 0px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.kalender-index .list {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1264px;
+  box-sizing: border-box;
+}
+
+.kalender-index .footer {
+  background: #6C63FF;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 33.9px 38px 88px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.kalender-index {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+
+/* Crw */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #E8EAF6;
+  margin: 0;
+  padding: 20px;
+  width: 100vw !important;
+}
+
+/* .container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #EDE7F6;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+} */
+
+.event-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.event-table th,
+.event-table td {
+  border: 1px solid #BDBDBD;
+  padding: 10px;
+}
+
+.event-table th {
+  background-color: whitesmoke;
+}
+
+.event-table td {
+  background-color: #FFFFFF;
+}
+
+.event-table td:last-child {
+  text-align: center;
+}
+
+.add-event-button {
+  background-color: #0000ea;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.add-event-button:hover {
+  background-color: #3700B3;
+}
+
+.calendar {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.calendar th,
+.calendar td {
+  border: 1px solid #BDBDBD;
+  padding: 10px;
+  text-align: center;
+}
+
+.calendar th {
+  background-color: #6C63FF;
+  color: white;
+}
+
+.calendar td {
+  background-color: #FFFFFF;
+  height: 80px;
+  vertical-align: top;
+}
+
+.month-navigation {
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.month-navigation button {
+  background-color: #15151a;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.month-navigation button:hover {
+  background-color: rgb(45, 45, 45);
+}
+
+/* navbar  */
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 30px; */
+
+  /* border: 1px solid #7f72f2; */
+
+  /* border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s; */
+
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 15px;
+  width: 250px;
+  box-sizing: border-box;
+  margin-bottom: 24px;
+}
+
+/* .button.active {
+  background-color: #7f72f2;
+  color: #fff;
+} */
+
+
+
+.button:hover {
+  background-color: #7f72f2;
+  color: #fff;
+
+}
+
+.button .icon {
+  margin-right: 10px;
+}
+
+.font-nav {
+  font-size: 24px;
+  color: #000000;
+}
+
+.icon:hover {
+  color: #FFFFFF;
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}

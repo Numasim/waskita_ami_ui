@@ -1,0 +1,674 @@
+.mata-kuliah-ui-ux-pengumuman .tugas-pertemuan {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 48px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-116 {
+  border: 10px solid rgba(108, 99, 255, 0.75);
+  margin: 716px 2px 356px 0;
+  display: flex;
+  padding: 22px 0.5px 22px 0;
+  width: 1499px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 16px;
+  width: 100px;
+  height: 99px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .waskita {
+  margin: 25.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-89 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .nanda-setya-pradana {
+  margin: 0 0.4px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .mahasiswa {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-90 {
+  margin-right: 16.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .ellipse {
+  border-radius: 40px;
+  background: url('../assets/images/ellipse.png') 50% / cover no-repeat;
+  margin: 3px 0;
+  width: 80px;
+  height: 80px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .profil {
+  margin: 6.5px 24px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .header {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #6C63FF;
+  margin: 0 4px 35px 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 24px 24px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .vector {
+  width: 15px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-92 {
+  border-radius: 8px 0 0 8px;
+  background: #FFFFFF;
+  margin-right: 10px;
+  display: flex;
+  padding: 8px 8.5px;
+  width: 32px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .back {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-269 {
+  margin: 3.5px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-270 {
+  border-radius: 8px 0 0 8px;
+  background: #FFFFFF;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 6.5px 10.4px 6.5px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .user-interface-user-experience {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-157 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .dosen-pembimbing-arvin-claudy-frobenius-mkom {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-158 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-159 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  margin: 0 4px 35px 4px;
+  display: flex;
+  flex-direction: column;
+  padding: 29px 0 29px 28px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .vector-1 {
+  width: 18px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .icround-assignment {
+  margin: 4px 11.4px 4px 0;
+  display: flex;
+  width: 24px;
+  height: 22px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .tugas {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+
+.mata-kuliah-ui-ux-pengumuman .button-tug-ui {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .vector-2 {
+  width: 19.5px;
+  height: 17px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .mdiannouncement {
+  margin: 5.5px 14.8px 5.5px 0;
+  display: flex;
+  width: 24px;
+  height: 23px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .pengumuman {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .button-peng-ui {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #6C63FF;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .group {
+  width: 18px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .iconoirdoc-magnifying-glass {
+  margin: 4px 14px 4px 0;
+  display: flex;
+  width: 22px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .deskripsi {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+
+.mata-kuliah-ui-ux-pengumuman .button-desk-ui {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .vector-6 {
+  width: 18px;
+  height: 10px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .ictwotone-list {
+  margin: 9px 15.1px 9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .materi {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+
+.mata-kuliah-ui-ux-pengumuman .button-mat-ui {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-160 {
+  margin: 0 104px 35px 104px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1240px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .pengumuman-1 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-117 {
+  background: #6C63FF;
+  margin: 0 4px;
+  /* display: flex; */
+  text-align: center;
+  padding: 32px 0.4px 32px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .juli-2525 {
+  margin-left: 21.8px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-pengumuman .richard-paul-astley-is-an-english-singer-he-gained-fame-through-his-association-with-the-production-trio-stock-aitken-waterman-releasing-the-1987-album-whenever-you-need-somebody-which-sold-15-million-copies-worldwide {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-pengumuman .content {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 0;
+  width: 1448px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-161 {
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .contact {
+  margin-bottom: 46.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 800;
+  font-size: 40px;
+  color: #333333;
+}
+
+.mata-kuliah-ui-ux-pengumuman .vector-7 {
+  width: 20px;
+  height: 16px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-95 {
+  margin: 3.5px 20px 3.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .supportamikom-ac-id {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .support {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .vector-8 {
+  width: 20px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-96 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .container {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .support-1 {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .vector-9 {
+  width: 20px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-97 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .httpswww-facebook-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .support-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .left {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .vector-10 {
+  width: 21px;
+  height: 17px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-98 {
+  margin: 3px 19.5px 3px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .httpstwitter-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .support-3 {
+  margin: 0 1.5px 49px 1.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .vector-11 {
+  width: 20px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-99 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .httpsinstagram-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .support-4 {
+  margin: 0 2px 48.5px 2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .vector-12 {
+  width: 24px;
+  height: 24px;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-100 {
+  margin-right: 18px;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .httpswww-youtube-comchannel-ucnmw-ez-8-y-3-jiod-d-22-o-8-yx-zq {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-pengumuman .support-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .right {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .list {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1264px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .footer {
+  background: #6C63FF;
+  /* margin: 0 4px; */
+  display: flex;
+  flex-direction: column;
+  padding: 24px 33.9px 55px 88px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman .frame-164 {
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-pengumuman {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #E2E0FF;
+  display: flex;
+  flex-direction: row;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+
+/* navbar  */
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 30px; */
+
+  /* border: 1px solid #7f72f2; */
+
+  /* border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s; */
+
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 15px;
+  width: 250px;
+  box-sizing: border-box;
+  margin-bottom: 24px;
+}
+
+/* .button.active {
+  background-color: #7f72f2;
+  color: #fff;
+} */
+
+
+
+.button:hover {
+  background-color: #7f72f2;
+  color: #fff;
+
+}
+
+.button .icon {
+  margin-right: 10px;
+}
+
+.font-nav {
+  font-size: 24px;
+  color: #000000;
+}
+
+.icon:hover {
+  color: #FFFFFF;
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}

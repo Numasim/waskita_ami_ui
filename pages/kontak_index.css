@@ -1,0 +1,961 @@
+.kontak-index .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 16px;
+  width: 100px;
+  height: 99px;
+}
+.kontak-index .waskita {
+  margin: 25.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.kontak-index .frame-89 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.kontak-index .nanda-setya-pradana {
+  margin: 0 0.4px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.kontak-index .mahasiswa-1 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.kontak-index .frame-90 {
+  margin-right: 16.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.kontak-index .ellipse {
+  border-radius: 40px;
+  background: url('../assets/images/ellipse.png') 50% / cover no-repeat;
+  margin: 3px 0;
+  width: 80px;
+  height: 80px;
+}
+.kontak-index .profil {
+  margin: 6.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.kontak-index .header {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #6C63FF;
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.kontak-index .vector-4 {
+  width: 19.5px;
+  height: 19.5px;
+}
+.kontak-index .magedashboard-fill {
+  margin: 8.7px 18px 8.7px 0;
+  display: flex;
+  width: 23.5px;
+  height: 23.5px;
+  box-sizing: border-box;
+}
+.kontak-index .dashboard {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+  
+}
+.kontak-index .button-dashboard {
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+  padding-left: 24px;
+  
+}
+.kontak-index .vector-5 {
+  width: 18px;
+  height: 20px;
+}
+.kontak-index .icround-assignment {
+  margin: 8.5px 19px 8.5px 0;
+  display: flex;
+  width: 24px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.kontak-index .tugas {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+  
+}
+.kontak-index .button-tugas {
+  border-radius: 8px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+  padding-left: 24px;
+}
+.kontak-index .solarcalendar-bold {
+  margin: 6.9px 16px 6.9px 0;
+  width: 24px;
+  height: 23.3px;
+}
+.kontak-index .kalender {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.kontak-index .button-kalender {
+  border-radius: 8px;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+  padding-left: 24px;
+}
+.kontak-index .vector-8 {
+  width: 20px;
+  height: 20px;
+}
+.kontak-index .bxscontact {
+  margin: 8.5px 18px 8.5px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.kontak-index .kontak {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.kontak-index .button-kontak {
+  border-radius: 8px;
+  background: #6C63FF;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 0;
+  width: 318px;
+  box-sizing: border-box;
+  padding-left: 24px;
+}
+.kontak-index .menu {
+  margin: 0 48px 40px 48px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 24px;
+  width: 100%;
+  box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
+}
+.kontak-index .dosen {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+  margin-bottom: 24px;
+  margin-top: 24px;
+}
+.kontak-index .vector {
+  width: 15px;
+  height: 20px;
+}
+.kontak-index .frame-92 {
+  border-radius: 8px 0 0 8px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 154.5px 0;
+  width: 71px;
+  height: 329px;
+  box-sizing: border-box;
+}
+.kontak-index .rectangle-92 {
+  background: url('../assets/images/rectangle_921.png') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 128px;
+  height: 128px;
+}
+.kontak-index .dosen-1 {
+  margin: 0 11.3px 16px 11.3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+.kontak-index .arvin-claudy-frobenius-mkom {
+  margin-bottom: 16px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 16px;
+  color: #333333;
+}
+.kontak-index .container {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+.kontak-index .frame-240 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .kontak-dosen {
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  width: 160px;
+  box-sizing: border-box;
+}
+.kontak-index .rectangle-921 {
+  background: url('../assets/images/rectangle_922.png') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 128px;
+  height: 128px;
+}
+.kontak-index .dosen-2 {
+  margin: 0 5.2px 16px 5.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+.kontak-index .nila-feby-puspitasari-skom-mcs {
+  margin-bottom: 16px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 16px;
+  color: #333333;
+}
+.kontak-index .container-1 {
+  margin: 0 19.9px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+.kontak-index .frame-2401 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .kontak-dosen-1 {
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  width: 160px;
+  box-sizing: border-box;
+}
+.kontak-index .rectangle-922 {
+  background: url('../assets/images/rectangle_92.png') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 128px;
+  height: 128px;
+}
+.kontak-index .dosen-3 {
+  margin: 0 8.5px 16px 8.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+.kontak-index .ainul-yaqin-mkom {
+  margin-bottom: 16px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 16px;
+  color: #333333;
+}
+.kontak-index .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+.kontak-index .frame-2402 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .kontak-dosen-2 {
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 16px 35px 16px;
+  width: 160px;
+  box-sizing: border-box;
+}
+.kontak-index .rectangle-923 {
+  background: url('../assets/images/rectangle_922.png') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 128px;
+  height: 128px;
+}
+.kontak-index .dosen-4 {
+  margin: 0 10.9px 16px 10.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+.kontak-index .barka-satya-mkom {
+  margin-bottom: 16px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 16px;
+  color: #333333;
+}
+.kontak-index .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+.kontak-index .frame-2403 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .kontak-dosen-3 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 16px 35px 16px;
+  width: 160px;
+  box-sizing: border-box;
+}
+.kontak-index .frame-254 {
+  display: flex;
+  flex-direction: row;
+  width: 664px;
+  box-sizing: border-box;
+}
+.kontak-index .vector-1 {
+  width: 15px;
+  height: 20px;
+}
+.kontak-index .frame-91 {
+  border-radius: 0 8px 8px 0;
+  background: #FFFFFF;
+  display: flex;
+  padding: 154.5px 0;
+  width: 71px;
+  height: 329px;
+  box-sizing: border-box;
+}
+.kontak-index .frame-255 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  width: 822px;
+  box-sizing: border-box;
+}
+.kontak-index .content-1 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.kontak-index .mahasiswa {
+  margin-right: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+  margin: 24px;
+}
+.kontak-index .vector-2 {
+  width: 15px;
+  height: 20px;
+}
+.kontak-index .frame-921 {
+  border-radius: 8px 0 0 8px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 135.5px 0;
+  width: 71px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.kontak-index .rectangle-924 {
+  background: url('../assets/images/rectangle_921.png') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 128px;
+  height: 128px;
+}
+.kontak-index .mahasiswa-2 {
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+.kontak-index .marjani-semala {
+  margin: 0 9.6px 16px 9.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 16px;
+  color: #333333;
+}
+.kontak-index .container-4 {
+  margin: 0 7.5px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+.kontak-index .frame-2404 {
+  margin: 0 1.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .kontak-siswa {
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  box-sizing: border-box;
+}
+.kontak-index .rectangle-925 {
+  background: url('../assets/images/rectangle_921.png') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 128px;
+  height: 128px;
+}
+.kontak-index .mahasiswa-3 {
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+.kontak-index .cetati-surnahni {
+  margin: 0 4.5px 16px 4.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 16px;
+  color: #333333;
+}
+.kontak-index .container-5 {
+  margin: 0 7.5px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+.kontak-index .frame-2405 {
+  margin: 0 1.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .kontak-siswa-1 {
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  box-sizing: border-box;
+}
+.kontak-index .rectangle-926 {
+  background: url('../assets/images/rectangle_921.png') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 128px;
+  height: 128px;
+}
+.kontak-index .dosen-5 {
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+.kontak-index .ainul-yaqin-mkom-1 {
+  margin: 0 12.9px 16px 12.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 16px;
+  color: #333333;
+}
+.kontak-index .container-6 {
+  margin: 0 4.4px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+.kontak-index .frame-2406 {
+  margin: 0 1.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .kontak-dosen-4 {
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  box-sizing: border-box;
+}
+.kontak-index .rectangle-927 {
+  background: url('../assets/images/rectangle_921.png') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 128px;
+  height: 128px;
+}
+.kontak-index .dosen-6 {
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #6C63FF;
+}
+.kontak-index .barka-satya-mkom-1 {
+  margin: 0 3px 16px 3px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 16px;
+  color: #333333;
+}
+.kontak-index .container-7 {
+  margin: 0 4.8px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+.kontak-index .frame-2407 {
+  margin: 0 1.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .kontak-dosen-5 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  box-sizing: border-box;
+}
+.kontak-index .frame-256 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.kontak-index .vector-3 {
+  width: 15px;
+  height: 20px;
+}
+.kontak-index .frame-911 {
+  border-radius: 0 8px 8px 0;
+  background: #FFFFFF;
+  display: flex;
+  padding: 135.5px 0;
+  width: 71px;
+  height: 291px;
+  box-sizing: border-box;
+}
+.kontak-index .frame-2541 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .content-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .card-kontak {
+  background: #E2E0FF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 8px 0 32px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.kontak-index .content {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.kontak-index .contact {
+  margin-bottom: 46.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 800;
+  font-size: 40px;
+  color: #333333;
+}
+.kontak-index .vector-9 {
+  width: 20px;
+  height: 16px;
+}
+.kontak-index .frame-95 {
+  margin: 3.5px 20px 3.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.kontak-index .supportamikom-ac-id {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.kontak-index .support {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .vector-10 {
+  width: 20px;
+  height: 20px;
+}
+.kontak-index .frame-96 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.kontak-index .container-8 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.kontak-index .support-1 {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .vector-11 {
+  width: 20px;
+  height: 20px;
+}
+.kontak-index .frame-97 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.kontak-index .httpswww-facebook-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.kontak-index .support-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .left {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.kontak-index .vector-12 {
+  width: 21px;
+  height: 17px;
+}
+.kontak-index .frame-98 {
+  margin: 3px 19.5px 3px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.kontak-index .httpstwitter-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.kontak-index .support-3 {
+  margin: 0 1.5px 49px 1.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .vector-13 {
+  width: 20px;
+  height: 20px;
+}
+.kontak-index .frame-99 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.kontak-index .httpsinstagram-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.kontak-index .support-4 {
+  margin: 0 2px 48.5px 2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .vector-14 {
+  width: 24px;
+  height: 24px;
+}
+.kontak-index .frame-100 {
+  margin-right: 18px;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.kontak-index .httpswww-youtube-comchannel-ucnmw-ez-8-y-3-jiod-d-22-o-8-yx-zq {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.kontak-index .support-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.kontak-index .right {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.kontak-index .list {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1264px;
+  box-sizing: border-box;
+}
+.kontak-index .footer {
+  background: #6C63FF;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 33.9px 38px 88px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.kontak-index {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+/* nav bar start */
+
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 30px; */
+
+  /* border: 1px solid #7f72f2; */
+
+  /* border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s; */
+
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 15px;
+  width: 250px;
+  box-sizing: border-box;
+  margin-bottom: 24px;
+}
+
+/* .button.active {
+  background-color: #7f72f2;
+  color: #fff;
+} */
+
+
+
+.button:hover {
+  background-color: #7f72f2;
+  color: #fff;
+
+}
+
+.button .icon {
+  margin-right: 10px;
+}
+.font-nav {
+  font-size: 24px;
+}
+.icon:hover {
+  color: #FFFFFF;
+}

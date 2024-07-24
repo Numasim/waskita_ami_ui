@@ -1,0 +1,793 @@
+.mata-kuliah-ui-ux-deskripsi .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 16px;
+  width: 100px;
+  height: 99px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .waskita {
+  margin: 25.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-89 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+
+}
+
+.mata-kuliah-ui-ux-deskripsi .nanda-setya-pradana {
+  margin: 0 0.4px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .mahasiswa {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-90 {
+  margin-right: 16.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .ellipse {
+  border-radius: 40px;
+  background: url('../assets/images/ellipse.png') 50% / cover no-repeat;
+  margin: 3px 0;
+  width: 80px;
+  height: 80px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .profil {
+  /* margin: 6.5px 24;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box; */
+  margin: 6.5px 24px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .header {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #6C63FF;
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 24px 24px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector {
+  width: 15px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-92 {
+  border-radius: 8px 0 0 8px;
+  background: #FFFFFF;
+  margin-right: 10px;
+  display: flex;
+  padding: 8px 8.5px;
+  width: 32px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .back {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-269 {
+  margin: 3.5px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-270 {
+  border-radius: 8px 0 0 8px;
+  background: #FFFFFF;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 6.5px 10.4px 6.5px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .user-interface-user-experience {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-157 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .dosen-pembimbing-arvin-claudy-frobenius-mkom {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-158 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-159 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: column;
+  padding: 27.5px 0 27.5px 28px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-1 {
+  width: 18px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .icround-assignment {
+  margin: 4px 11.4px 4px 0;
+  display: flex;
+  width: 24px;
+  height: 22px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .tugas {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+
+.mata-kuliah-ui-ux-deskripsi .button-tug-ui {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-2 {
+  width: 19.5px;
+  height: 17px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .mdiannouncement {
+  margin: 5.5px 14.8px 5.5px 0;
+  display: flex;
+  width: 24px;
+  height: 23px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .pengumuman {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+
+.mata-kuliah-ui-ux-deskripsi .button-peng-ui {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .group {
+  width: 18px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .iconoirdoc-magnifying-glass {
+  margin: 4px 14px 4px 0;
+  display: flex;
+  width: 22px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .deskripsi {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .button-desk-ui {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #6C63FF;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-6 {
+  width: 18px;
+  height: 10px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .ictwotone-list {
+  margin: 9px 15.1px 9px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .materi {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #333333;
+}
+
+.mata-kuliah-ui-ux-deskripsi .button-mat-ui {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 25px 20px;
+  width: 250px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-160 {
+  margin: 0 100px 35px 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1240px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .deskripsi-mata-kuliah {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-117 {
+  background: #6C63FF;
+  margin-bottom: 8px;
+  /* display: flex; */
+  padding: 32px 0.4px 32px 0;
+  width: 1440px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.mata-kuliah-ui-ux-deskripsi .deskripsi-1 {
+  margin-left: 21.8px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .richard-paul-astley-is-an-english-singer-he-gained-fame-through-his-association-with-the-production-trio-stock-aitken-waterman-releasing-the-1987-album-whenever-you-need-somebody-which-sold-15-million-copies-worldwide {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .content {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .capaian {
+  margin-left: 21.2px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .richard-paul-astley-is-an-english-singer-he-gained-fame-through-his-association-with-the-production-trio-stock-aitken-waterman-releasing-the-1987-album-whenever-you-need-somebody-which-sold-15-million-copies-worldwide-1 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .content-1 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .referensi {
+  margin-left: 21.3px;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .richard-paul-astley-is-an-english-singer-he-gained-fame-through-his-association-with-the-production-trio-stock-aitken-waterman-releasing-the-1987-album-whenever-you-need-somebody-which-sold-15-million-copies-worldwide-2 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .content-2 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .online-meet-link {
+  margin: 0 29.2px 16px 26.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-7 {
+  width: 20px;
+  height: 12px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .hugeiconszoom {
+  margin: 8px 14px 8px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .zoom {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-137 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-8 {
+  width: 24px;
+  height: 19.8px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .simple-iconsgooglemeet {
+  margin: 4.1px 12px 4.1px 0;
+  display: flex;
+  width: 24px;
+  height: 23.8px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .google-meet {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-1371 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-135 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 333px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .content-3 {
+  margin-left: 24.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-165 {
+  margin-right: 22.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-166 {
+  margin-bottom: 59px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .contact {
+  margin-bottom: 46.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 800;
+  font-size: 40px;
+  color: #333333;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-9 {
+  width: 20px;
+  height: 16px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-95 {
+  margin: 3.5px 20px 3.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .supportamikom-ac-id {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .support {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-10 {
+  width: 20px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-96 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .container {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .support-1 {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-11 {
+  width: 20px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-97 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .httpswww-facebook-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .support-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .left {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-12 {
+  width: 21px;
+  height: 17px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-98 {
+  margin: 3px 19.5px 3px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .httpstwitter-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .support-3 {
+  margin: 0 1.5px 49px 1.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-13 {
+  width: 20px;
+  height: 20px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-99 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .httpsinstagram-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .support-4 {
+  margin: 0 2px 48.5px 2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .vector-14 {
+  width: 24px;
+  height: 24px;
+}
+
+.mata-kuliah-ui-ux-deskripsi .frame-100 {
+  margin-right: 18px;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .httpswww-youtube-comchannel-ucnmw-ez-8-y-3-jiod-d-22-o-8-yx-zq {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+
+.mata-kuliah-ui-ux-deskripsi .support-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .right {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .list {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1264px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi .footer {
+  background: #6C63FF;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 33.9px 38px 88px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+.mata-kuliah-ui-ux-deskripsi {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #E2E0FF;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  box-sizing: border-box;
+}
+
+/* navbar  */
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 30px; */
+
+  /* border: 1px solid #7f72f2; */
+
+  /* border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s; */
+
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #6C63FF;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 15px;
+  width: 250px;
+  box-sizing: border-box;
+  margin-bottom: 24px;
+}
+
+/* .button.active {
+  background-color: #7f72f2;
+  color: #fff;
+} */
+
+
+
+.button:hover {
+  background-color: #7f72f2;
+  color: #fff;
+
+}
+
+.button .icon {
+  margin-right: 10px;
+}
+
+.font-nav {
+  font-size: 24px;
+  color: #000000;
+}
+
+.icon:hover {
+  color: #FFFFFF;
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}

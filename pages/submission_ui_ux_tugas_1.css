@@ -1,0 +1,560 @@
+.submission-ui-ux-tugas-1 .image-1 {
+  background: url('../assets/images/image_1.png') 50% / cover no-repeat;
+  margin-right: 16px;
+  width: 100px;
+  height: 99px;
+}
+.submission-ui-ux-tugas-1 .waskita {
+  margin: 25.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .frame-89 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .nanda-setya-pradana {
+  margin: 0 0.4px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .mahasiswa {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .frame-90 {
+  margin-right: 16.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .ellipse {
+  border-radius: 40px;
+  background: url('../assets/images/ellipse.png') 50% / cover no-repeat;
+  margin: 3px 0;
+  width: 80px;
+  height: 80px;
+}
+.submission-ui-ux-tugas-1 .profil {
+  margin: 6.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  margin-right: 24px;
+}
+.submission-ui-ux-tugas-1 .header {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #6C63FF;
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: px;
+  box-sizing: border-box;
+  padding: 24px;
+}
+.submission-ui-ux-tugas-1 .vector {
+  width: 15px;
+  height: 20px;
+}
+.submission-ui-ux-tugas-1 .frame-92 {
+  border-radius: 8px 0 0 8px;
+  background: #FFFFFF;
+  margin-right: 10px;
+  display: flex;
+  padding: 8px 8.5px;
+  width: 32px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .back {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 24px;
+  color: #000000;
+}
+.submission-ui-ux-tugas-1 .frame-269 {
+  margin: 3.5px 0;
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+}
+.submission-ui-ux-tugas-1 .frame-270 {
+  border-radius: 8px 0 0 8px;
+  background: #FFFFFF;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 6.5px 10.4px 6.5px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .user-interface-user-experience {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.submission-ui-ux-tugas-1 .frame-157 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .dosen-pembimbing-arvin-claudy-frobenius-mkom {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 36px;
+  color: #000000;
+}
+.submission-ui-ux-tugas-1 .frame-158 {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .frame-159 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  margin-bottom: 35px;
+  display: flex;
+  flex-direction: column;
+  padding: 27.5px 0 27.5px 28px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .tugas-1 {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .frame-116 {
+  background: #6C63FF;
+  margin-bottom: 35px;
+  padding: 32px 0.2px 32px 0;
+  box-sizing: border-box;
+  text-align: center;
+  width: 100%;
+}
+.submission-ui-ux-tugas-1 .deskripsi {
+  margin-bottom: 14px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 40px;
+  color: #000000;
+  
+}
+.submission-ui-ux-tugas-1 .petunjuk-kerjakan-soal-yang-disediakan-berikut-serta-unggah-hasil-praktikum-berupa-kode-program-dan-screen-shootnya-dalam-satu-file-pdf-kapasitas-file-pdf-tidak-boleh-melebihi-3-mb-hasil-pengerjaan-soal-tugas-dan-hasil-praktikum-tidak-boleh-melebihi-batas-akhir-yang-telah-ditentukan-template-laporan-praktikum-lembar-jawab-dapat-diakses-pada-link-inihttpsamikomac-my-sharepoint-comwgpersonalutama-amikom-ac-id-estd-mah-8-ht-9-ch-jd-8-do-u-3-qd-ybq-s-4-gxy-981-zkk-eq-9-wa-3-a-8-wexq-prz-t {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.petunjuk-kerjakan-soal-yang-disediakan-berikut-serta-unggah-hasil-praktikum-berupa-kode-program-dan-screen-shootnya-dalam-satu-file-pdf-kapasitas-file-pdf-tidak-boleh-melebihi-3-mb-hasil-pengerjaan-soal-tugas-dan-hasil-praktikum-tidak-boleh-melebihi-batas-akhir-yang-telah-ditentukan-template-laporan-praktikum-lembar-jawab-dapat-diakses-pada-link-inihttpsamikomac-my-sharepoint-comwgpersonalutama-amikom-ac-id-estd-mah-8-ht-9-ch-jd-8-do-u-3-qd-ybq-s-4-gxy-981-zkk-eq-9-wa-3-a-8-wexq-prz-t {
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 32px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.submission-ui-ux-tugas-1 .group-34 {
+  margin-bottom: 83px;
+  flex-direction: column;
+  box-sizing: border-box;
+  text-align: center ;
+}
+.submission-ui-ux-tugas-1 .submission-status {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 400;
+  font-size: 40px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+.submission-ui-ux-tugas-1 .group-35 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .frame-177 {
+  margin-right: 9.5px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .submission-status-1 {
+  margin-right: 19.5px;
+  width: 288px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.submission-ui-ux-tugas-1 .no-attempt {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+  margin-right: 24px;
+}
+.submission-ui-ux-tugas-1 .frame-272 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 0 24px 24px;
+  width: 1370px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .grading-status {
+  margin-right: 19.5px;
+  width: 235px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.submission-ui-ux-tugas-1 .not-graded {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+  margin-right: 24px;
+}
+.submission-ui-ux-tugas-1 .frame-2731 {
+  background: rgba(179, 179, 179, 0.84);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 0 24px 24px;
+  width: 1370px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .due-date {
+  margin-right: 19.5px;
+  width: 150px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.submission-ui-ux-tugas-1 .monday-1-july-20242359 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+  margin-right: 24px;
+}
+.submission-ui-ux-tugas-1 .frame-2741 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 0 24px 24px;
+  width: 1370px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .file-submission {
+  margin: 0 19.5px 20px 0;
+  display: inline-block;
+  width: 244px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #000000;
+}
+.submission-ui-ux-tugas-1 .choose-file {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .frame-284 {
+  border-radius: 10px;
+  background: #6C63FF;
+  display: flex;
+  padding: 10px 16.9px 10px 16px;
+  box-sizing: border-box;
+  margin-right: 24px;
+}
+.frame-284:hover {
+ background-color: #301FF6;
+ transition: 0.5ms;
+
+}
+.submission-ui-ux-tugas-1 .frame-275 {
+  background: rgba(179, 179, 179, 0.84);
+  margin-bottom: 36px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 0 24px 24px;
+  width: 1370px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .add-submission {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .frame-285 {
+  border-radius: 10px;
+  background: #301FF6;
+  display: flex;
+  padding: 24px 24.5px 24px 24px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .frame-276 {
+  display: flex;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .frame-273 {
+  margin: 0 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .frame-274 {
+  margin-bottom: 71px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+  width: 100%
+  ;
+}
+.submission-ui-ux-tugas-1 .contact {
+  margin-bottom: 46.5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 800;
+  font-size: 40px;
+  color: #333333;
+}
+.submission-ui-ux-tugas-1 .vector-1 {
+  width: 20px;
+  height: 16px;
+}
+.submission-ui-ux-tugas-1 .frame-95 {
+  margin: 3.5px 20px 3.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .supportamikom-ac-id {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .support {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .vector-2 {
+  width: 20px;
+  height: 20px;
+}
+.submission-ui-ux-tugas-1 .frame-96 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .support-1 {
+  margin-bottom: 49px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .vector-3 {
+  width: 20px;
+  height: 20px;
+}
+.submission-ui-ux-tugas-1 .frame-97 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .httpswww-facebook-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .support-2 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .left {
+  margin-bottom: 0.5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .vector-4 {
+  width: 21px;
+  height: 17px;
+}
+.submission-ui-ux-tugas-1 .frame-98 {
+  margin: 3px 19.5px 3px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .httpstwitter-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .support-3 {
+  margin: 0 1.5px 49px 1.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .vector-5 {
+  width: 20px;
+  height: 20px;
+}
+.submission-ui-ux-tugas-1 .frame-99 {
+  margin: 1.5px 20px 1.5px 0;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .httpsinstagram-comamikomjogja {
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .support-4 {
+  margin: 0 2px 48.5px 2px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .vector-6 {
+  width: 24px;
+  height: 24px;
+}
+.submission-ui-ux-tugas-1 .frame-100 {
+  margin-right: 18px;
+  display: flex;
+  width: 36px;
+  height: 36px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .httpswww-youtube-comchannel-ucnmw-ez-8-y-3-jiod-d-22-o-8-yx-zq {
+  margin: 0.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Karla';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.submission-ui-ux-tugas-1 .support-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .right {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .list {
+  margin-left: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1264px;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 .footer {
+  background: #6C63FF;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 33.9px 38px 88px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.submission-ui-ux-tugas-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #E2E0FF;
+  display: flex;
+  flex-direction: column;
+  width: 100%px;
+  box-sizing: border-box;
+}
